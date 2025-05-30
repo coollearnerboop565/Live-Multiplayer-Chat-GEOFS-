@@ -112,7 +112,7 @@ function initATCADDON() {
         border: 1px solid rgb(169, 187, 223);
         width: 40%;
         height: 75%;
-        box-shadow: 0px 5px 30px #666;
+        box-shadow: 4px 4px 4px ##2e2d2d;
     `);
     ATCForm.setAttribute("id","atc-form");
     ATCInput.setAttribute("id","atc-input");
